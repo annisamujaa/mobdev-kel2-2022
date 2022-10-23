@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/home"/>
+    <item android:title="Lansia"
+        android:icon="@drawable/ic_baseline_elderly_24"
+        android:id="@+id/lansia"/>
+    <item android:title="Keluarga"
+        android:icon="@drawable/ic_baseline_family_restroom_24"
+        android:id="@+id/family"/>
+    <item android:title="Guide"
+        android:icon="@drawable/ic_baseline_book_24"
+        android:id="@+id/guide"/>
+    <item android:title="Profil"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:id="@+id/profil"/>
+</menu>
