@@ -3,13 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_home.xml" value="0.4101638793945313" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2953125" />
-        <entry key="app/src/main/res/layout/activity_notification.xml" value="0.2644927536231884" />
-        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
-        <entry key="app/src/main/res/layout/fragment_notification.xml" value="0.15520833333333334" />
-        <entry key="app/src/main/res/layout/fragment_pasien_list.xml" value="0.19270833333333334" />
-        <entry key="app/src/main/res/layout/home.xml" value="0.26145833333333335" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/drawable/button_shape.xml" value="0.121" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.121" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/activity_main.xml" value="0.2109375" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_change_pass.xml" value="0.19583333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_detail_guide.xml" value="0.19583333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_guide.xml" value="0.225" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_home.xml" value="0.225" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_home_add_obat.xml" value="0.19583333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_home_detail_faskes.xml" value="0.18177083333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_home_faskes.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_home_obat.xml" value="0.18177083333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_keluarga.xml" value="0.225" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_lansia.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_notif.xml" value="0.16458333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_profil.xml" value="0.2109375" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/layout/fragment_family_riwayat.xml" value="0.19583333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.225" />
+        <entry key="..\:/AndroidStudioProjects/MobileDevKel2/app/src/main/res/menu/main.xml" value="0.225" />
       </map>
     </option>
   </component>
